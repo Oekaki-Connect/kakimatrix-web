@@ -114,7 +114,7 @@ guide](https://classic.yarnpkg.com/en/docs/install) if you do not have it alread
 
 1. Install or update `node.js` so that your `node` is at least the current recommended LTS.
 1. Install `yarn` if not present already.
-1. Clone the repo: `git clone https://github.com/element-hq/element-web.git`.
+1. Clone the repo: `git clone https://github.com/Oekaki-Connect/kakimatrix-web.git`.
 1. Switch to the element-web directory: `cd element-web`.
 1. Install the prerequisites: `yarn install`.
     - (whatever, ignore this shet for now)
