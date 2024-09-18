@@ -117,6 +117,7 @@ guide](https://classic.yarnpkg.com/en/docs/install) if you do not have it alread
 1. Clone the repo: `git clone https://github.com/element-hq/element-web.git`.
 1. Switch to the element-web directory: `cd element-web`.
 1. Install the prerequisites: `yarn install`.
+    - (whatever, ignore this shet for now)
     - If you're using the `develop` branch, then it is recommended to set up a
       proper development environment (see [Setting up a dev
       environment](#setting-up-a-dev-environment) below). Alternatively, you
@@ -124,6 +125,7 @@ guide](https://classic.yarnpkg.com/en/docs/install) if you do not have it alread
       the develop branch.
 1. Configure the app by copying `config.sample.json` to `config.json` and
    modifying it. See the [configuration docs](docs/config.md) for details.
+1. nah, dont run `yarn dist` for tarball shet, run `yarn start` to run a local dev server on <localhost:8080>
 1. `yarn dist` to build a tarball to deploy. Untaring this file will give
    a version-specific directory containing all the files that need to go on your
    web server.
